@@ -1,4 +1,7 @@
-
+.scrollable{
+  height: 200px;
+  overflow: auto;
+}
 .form-control {
     border: 1px solid #3098b5;
     background-color:white;
